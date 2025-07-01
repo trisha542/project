@@ -1,0 +1,120 @@
+.navbar{
+    padding: 20px 15px;
+    background-color: rgb(160, 66, 136);
+    background-size: cover;
+    margin-top: 5px;
+    display: flex;
+    justify-content: space-between;
+
+}
+.navbar a {
+    display: flex;
+    gap: 10%;
+    color: black;
+    font-size: 18px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color:beige;
+    text-decoration: underline;
+    border-radius: 15%;
+}
+.navbar a:hover {
+    background-color: rgba(197, 208, 209, 0.844);
+    color: cadetblue;
+
+}
+
+#search{
+    float: right;
+}
+.flex-container{
+    display: flex;
+    gap: 52px;
+    }
+footer{
+    background-color: palevioletred;
+    padding: 20px 20px;
+    font-size: large;
+    font-family: cursive;
+}
+.img{
+    display: inline;
+    gap: 170px;
+}
+.itm{
+   display: flex;
+   justify-content: row;
+   align-items: center;
+   gap:110px;
+   font-size: 15px;
+}
+.im{
+    border: 3px solid black;
+}
+h1{
+    color: darkmagenta;
+    text-decoration: underline;
+}
+.container{
+    border: 5px;
+}
+a{
+    font-size: 30px;
+}
+a:hover{
+    color: black;
+}
+.flex-pic{
+    display: flex;
+    gap: 80px;
+}
+.photo{
+    border: 5px solid darkmagenta ;
+}
+.food{
+    display: flex;
+    justify-content: row;
+    align-items: center;
+    gap: 245px;
+    font-size: 17px;
+}
+.comfort{
+    display: flex;
+    gap: 80px;
+}
+.Reciepes{
+    border: 5px solid darkorchid;
+}
+.para{
+    display: flex;
+    justify-content: row;
+    align-items: center;
+    gap: 180px;
+    font-size: 17px;
+}
+.imgs{
+    display: flex;
+    gap: 80px;
+}
+.foodie{
+    border: 5px solid darkviolet;
+}
+.cheese{
+    display: flex;
+    justify-content: row;
+    align-items: center;
+    gap: 180px;
+    font-size: 17px;
+}
+.box{
+    height: 600px;
+    width: 600px;
+    background-color: pink;
+    font-size: 2px;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    border: 7px dotted black;
+}
+.box1{
+    margin: 5%;
+    padding: 5%;
+    font-size: 25px;
+}
